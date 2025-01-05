@@ -1,0 +1,39 @@
+body
+   {background-color: coral;}
+
+   a:link 
+   {
+    color:azure;
+    background-color: bisque;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 15px;
+   }
+
+   a:visited
+   {
+    color:gold;
+    background-color:deeppink;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 15px;
+   }
+
+   a :hover
+   {
+    color:gold;
+    background-color:deeppink;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 15px;
+   }
+
+   a:active
+   {
+    color:gold;
+    background-color:darkkhaki;
+    text-decoration: none;
+    padding: 15px;
+   }
